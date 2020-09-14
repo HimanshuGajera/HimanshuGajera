@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**HimanshuGajera/HimanshuGajera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am Himanshu Gajera. Currently working as a research intern at softsensor AI labs in cancer diagnosis based on deep learning. I am looking forward to explore the field of research in machine learning and AI.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on research projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning various data manipulation libraries and tools.
+
+- 👯 I’m looking to collaborate on projects of machine learning and data science.
+
+- 🤔 I’m looking for help with model deployment.
+
+- 💬 Ask me about openCV, Tensorflow, Cloud platforms.
+
+- 📫 How to reach me:  contact me on this mail himanshugajera1028@gmail.com.
+
+- 😄 Pronouns: with no accent.
+
+- ⚡ Fun fact: Dealing with the new oil.
