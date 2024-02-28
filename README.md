@@ -15,6 +15,4 @@
 
 - 📫 How to reach me:  contact me on this mail himanshugajera1028@gmail.com.
 
-- 😄 Pronouns: with no accent.
-
 - ⚡ Fun fact: Dealing with the new oil.
